@@ -1,4 +1,4 @@
-##🏥 FastAPI Patient Management API
+🏥 #FastAPI Patient Management API
 This is a lightweight RESTful API built with FastAPI for managing patient data, including BMI calculation and health categorization. It uses a local JSON file (patients.json) to simulate a database.
 
 🚀 Features
